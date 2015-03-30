@@ -1,0 +1,23 @@
+
+div {
+	height: 20em;
+	width: 50%;
+	float: left;
+
+}
+
+.box-one {
+	background-color: red;
+}
+
+.box-two {
+	background-color: purple;
+}
+
+.box-three {
+	background-color: teal;
+}
+
+.box-four {
+	background-color: yellow;
+}
